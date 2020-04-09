@@ -1,0 +1,30 @@
+div.a {
+   text-align: center;
+}
+
+
+table {
+   border-collapse: collapse;
+
+}
+table, th, td {
+  border-collapse: collapse;
+}
+    
+td {
+  text-align: left;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+tr:hover {background-color: #00ffff;}
+tr:nth-child(even) {background-color: #f2f2f2;}
+table, th, td {
+  border: 2px solid black;
+}
+.background {
+	background-image: url("Solarbackground.jpg");
+}
